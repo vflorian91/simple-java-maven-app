@@ -1,6 +1,6 @@
 # simple-java-maven-app
 
-Version 2
+Version 3
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
